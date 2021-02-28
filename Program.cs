@@ -16,7 +16,7 @@ namespace recursion
     class Program
     {
         public string equation;
-        var operation = new Operation();
+         operation = new Operation(); //Somehow call new Operation?
         static void Main(string[] args)
         {
             Console.WriteLine("Please enter equation: ");
