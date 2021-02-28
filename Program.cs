@@ -5,7 +5,6 @@ namespace recursion
 
     public enum Operation
     {
-        None,
         Add,
         Subtract,
         Divide,
