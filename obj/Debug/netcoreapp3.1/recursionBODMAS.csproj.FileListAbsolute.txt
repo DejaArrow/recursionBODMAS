@@ -1,0 +1,11 @@
+C:\Users\Debbie\Documents\UCP\AdvPro\Recursion\recursionBODMAS\bin\Debug\netcoreapp3.1\recursionBODMAS.exe
+C:\Users\Debbie\Documents\UCP\AdvPro\Recursion\recursionBODMAS\bin\Debug\netcoreapp3.1\recursionBODMAS.deps.json
+C:\Users\Debbie\Documents\UCP\AdvPro\Recursion\recursionBODMAS\bin\Debug\netcoreapp3.1\recursionBODMAS.runtimeconfig.json
+C:\Users\Debbie\Documents\UCP\AdvPro\Recursion\recursionBODMAS\bin\Debug\netcoreapp3.1\recursionBODMAS.runtimeconfig.dev.json
+C:\Users\Debbie\Documents\UCP\AdvPro\Recursion\recursionBODMAS\bin\Debug\netcoreapp3.1\recursionBODMAS.dll
+C:\Users\Debbie\Documents\UCP\AdvPro\Recursion\recursionBODMAS\bin\Debug\netcoreapp3.1\recursionBODMAS.pdb
+C:\Users\Debbie\Documents\UCP\AdvPro\Recursion\recursionBODMAS\obj\Debug\netcoreapp3.1\recursionBODMAS.csprojAssemblyReference.cache
+C:\Users\Debbie\Documents\UCP\AdvPro\Recursion\recursionBODMAS\obj\Debug\netcoreapp3.1\recursionBODMAS.AssemblyInfoInputs.cache
+C:\Users\Debbie\Documents\UCP\AdvPro\Recursion\recursionBODMAS\obj\Debug\netcoreapp3.1\recursionBODMAS.AssemblyInfo.cs
+C:\Users\Debbie\Documents\UCP\AdvPro\Recursion\recursionBODMAS\obj\Debug\netcoreapp3.1\recursionBODMAS.dll
+C:\Users\Debbie\Documents\UCP\AdvPro\Recursion\recursionBODMAS\obj\Debug\netcoreapp3.1\recursionBODMAS.pdb
